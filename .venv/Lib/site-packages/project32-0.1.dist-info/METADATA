@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: project32
+Version: 0.1
+Author: indranil Bakshi
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python

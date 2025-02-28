@@ -1,0 +1,9 @@
+README.md
+setup.py
+project32.egg-info/PKG-INFO
+project32.egg-info/SOURCES.txt
+project32.egg-info/dependency_links.txt
+project32.egg-info/requires.txt
+project32.egg-info/top_level.txt
+src/__init__.py
+src/logger.py
